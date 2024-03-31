@@ -2,7 +2,7 @@
 
 
 
-I LOVE YOU SUDEEPTI❤️❤️❤️❤️❤️❤️❤️
+
 # Fitbit Fitness Tracker App Data Analysis 🏃‍♂️💤
 
 ## Overview 📊
