@@ -1,6 +1,6 @@
 # Fitbit Consumer Behaviour Analysis
 
 
+![fitbit ](https://github.com/Adityaabhiram315/Fitbit-Consumer-Behaviour-Analysis/assets/95640107/cba7a419-2a97-4046-ac3b-d42e6bc96f96)
 
-https://github.com/Adityaabhiram315/Fitbit-Consumer-Behaviour-Analysis/assets/95640107/a4d08b63-eba2-400a-9569-1d09b4e42225
 
