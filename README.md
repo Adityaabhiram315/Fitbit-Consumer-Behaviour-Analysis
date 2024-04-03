@@ -42,6 +42,7 @@ For interactive visualizations and additional insights, check out our Tableau da
 
 https://public.tableau.com/app/profile/vadegharu.aditya.abhiram/viz/FitbitConsumerBehaviourAnalysis/FitBitCaseStudyVisualized
 
+Google Collab python Notebook link: https://colab.research.google.com/drive/1tXDe0i6QMQhRz5-RUNyih6e22Jvyddf-?usp=sharing
 ## Analysis Summary 📝🔍
 
 - Explored trends in daily, hourly, and minutes activity.
