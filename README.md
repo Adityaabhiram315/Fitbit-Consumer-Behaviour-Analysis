@@ -36,6 +36,12 @@ The data used in this analysis was collected from Fitbit users who consented to 
 - Data was merged and transformed to create consolidated datasets for daily, hourly, and minutes activity.
 - Pandas Profiling was utilized for initial exploratory data analysis (EDA).
 
+## Tableau Visualizations 📊🎨
+
+For interactive visualizations and additional insights, check out our Tableau dashboards here:
+
+https://public.tableau.com/app/profile/vadegharu.aditya.abhiram/viz/FitbitConsumerBehaviourAnalysis/FitBitCaseStudyVisualized
+
 ## Analysis Summary 📝🔍
 
 - Explored trends in daily, hourly, and minutes activity.
