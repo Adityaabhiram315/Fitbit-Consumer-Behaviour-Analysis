@@ -10,6 +10,12 @@
 This project aims to analyze Fitbit Fitness Tracker App data to gain insights into how consumers use the Fitbit app and discover trends and insights for the marketing team. The analysis includes exploring various datasets such as daily activity, hourly activity, minutes activity, sleep 
 data, weight log, and heart rate.
 
+🐝 Introducing FitBee - Your Ultimate Fitness Companion! 🌟
+
+FitBee is a revolutionary fitness tracking app designed to empower users to achieve their health and wellness goals. With intuitive features and insightful analytics, FitBee provides users with personalized recommendations and actionable insights to enhance their fitness journey.
+
+
+
 ![fitbee1](https://github.com/Adityaabhiram315/Fitbit-Consumer-Behaviour-Analysis/assets/95640107/59f669d8-4c33-40a8-86cb-2aa8ee7bd667)
 
 
@@ -73,8 +79,4 @@ The data used in this analysis was collected from Fitbit users who consented to 
 2. Ensure you have Python and the necessary libraries installed (Pandas, Matplotlib, Seaborn).
 3. Run the Jupyter notebooks to explore the analysis and visualizations.
 4. Save preprocessed data using the provided code snippet.
-
-## License 📜
-
-This project is licensed under the [MIT License](link-to-license-file).
 
