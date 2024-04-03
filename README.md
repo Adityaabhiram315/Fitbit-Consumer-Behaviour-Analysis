@@ -38,11 +38,18 @@ The data used in this analysis was collected from Fitbit users who consented to 
 
 ## Tableau Visualizations 📊🎨
 
+![FitBit Case Study Visualized](https://github.com/Adityaabhiram315/Fitbit-Consumer-Behaviour-Analysis/assets/95640107/dd0cd714-8ba6-4fd7-a80e-89a6be7297dc)
+
+
+
 For interactive visualizations and additional insights, check out our Tableau dashboards here:
 
 https://public.tableau.com/app/profile/vadegharu.aditya.abhiram/viz/FitbitConsumerBehaviourAnalysis/FitBitCaseStudyVisualized
 
-Google Collab python Notebook link: https://colab.research.google.com/drive/1tXDe0i6QMQhRz5-RUNyih6e22Jvyddf-?usp=sharing
+Google Collab python Notebook link: 
+
+https://colab.research.google.com/drive/1tXDe0i6QMQhRz5-RUNyih6e22Jvyddf-?usp=sharing
+
 ## Analysis Summary 📝🔍
 
 - Explored trends in daily, hourly, and minutes activity.
@@ -51,7 +58,7 @@ Google Collab python Notebook link: https://colab.research.google.com/drive/1tXD
 - Investigated heart rate variations and trends.
 
 ## Visualizations and Key Findings 📊🔑
-
+ 
 - Utilized matplotlib and seaborn for data visualization.
 - Identified peak activity times during the day.
 - Discovered correlations between sleep duration and activity levels.
