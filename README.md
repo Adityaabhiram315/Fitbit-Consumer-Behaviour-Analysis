@@ -7,7 +7,19 @@
 
 ## Overview 📊
 
-This project aims to analyze Fitbit Fitness Tracker App data to gain insights into how consumers use the Fitbit app and discover trends and insights for the marketing team. The analysis includes exploring various datasets such as daily activity, hourly activity, minutes activity, sleep data, weight log, and heart rate.
+This project aims to analyze Fitbit Fitness Tracker App data to gain insights into how consumers use the Fitbit app and discover trends and insights for the marketing team. The analysis includes exploring various datasets such as daily activity, hourly activity, minutes activity, sleep 
+data, weight log, and heart rate.
+
+
+<img width="267" alt="Screenshot 2024-04-03 at 1 15 24 PM" src="https://github.com/Adityaabhiram315/Fitbit-Consumer-Behaviour-Analysis/assets/95640107/34d3108f-a2ca-44a0-8fec-b224ba24f215">
+
+<img width="266" alt="Screenshot 2024-04-03 at 1 15 39 PM" src="https://github.com/Adityaabhiram315/Fitbit-Consumer-Behaviour-Analysis/assets/95640107/5d3d235a-07aa-477d-b55f-c0afca3a563d">
+
+<img width="268" alt="Screenshot 2024-04-03 at 1 15 49 PM" src="https://github.com/Adityaabhiram315/Fitbit-Consumer-Behaviour-Analysis/assets/95640107/d16c6ccd-a164-4894-b36a-1c9fe2792348">
+
+<img width="276" alt="Screenshot 2024-04-03 at 1 15 58 PM" src="https://github.com/Adityaabhiram315/Fitbit-Consumer-Behaviour-Analysis/assets/95640107/f215865a-5cdb-4e01-b572-bcb17351daa9">
+
+
 
 ## Business Objectives 🎯
 
